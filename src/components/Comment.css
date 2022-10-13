@@ -1,0 +1,36 @@
+.UserInfo img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.UserInfo-name{
+  color: whitesmoke;
+  font-size: 23px;
+}
+
+/* .Comment { */
+  /* background-color: aqua; */
+/* } */
+
+.comment-first {
+  background-color: bisque;
+  height: 180px;
+  background: linear-gradient(pink, blue , rgb(30, 2, 2));
+  box-shadow: 3px 3px 3px 1px black;
+  
+} 
+
+.Comment-text{
+width: 200px;
+height: 210px;
+background: linear-gradient(pink, blue , black);
+font-size: 32px;
+margin: 0 auto;
+color: whitesmoke;
+margin-top: 10px;
+box-shadow: 3px 3px 3px 1px black;
+}
+
+
